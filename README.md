@@ -8,7 +8,7 @@ This project was developed at the University of Maryland for **CMSC388J: Buildin
 
 ## Demo
 
-Demo: [Watch on YouTube](https://youtu.be/2QBcR_uyVeA?si=BiZwFfxUYImI6Ets)
+Demo: [Link](https://youtu.be/2QBcR_uyVeA?si=BiZwFfxUYImI6Ets)
 
 ![Movie Reviews application screenshot](movie-reviews.png)
 
